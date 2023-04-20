@@ -1,4 +1,4 @@
-# create-svelte 師大版本
+# create-svelte 課程小幫手svelte版本
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
